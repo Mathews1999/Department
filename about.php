@@ -14,17 +14,17 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><h5>Hiroshi College</h5></a>
+          <a class="navbar-brand" href="index.php"><h5>Hiroshi College</h5></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
               <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-              <a class="nav-link" href="gallery.html">Gallery</a>
-              <a class="nav-link" href="department.html">Department</a>
-              <a class="nav-link" href="contact.html">Contact us</a>
-              <a class="nav-link" href="about.html">About Us</a>
+              <a class="nav-link" href="gallery.php">Gallery</a>
+              <a class="nav-link" href="department.php">Department</a>
+              <a class="nav-link" href="contact.php">Contact us</a>
+              <a class="nav-link" href="about.php">About Us</a>
             </div>
           </div>
         </div>
